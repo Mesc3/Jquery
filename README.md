@@ -1,0 +1,2 @@
+# Jquery
+Jquery Exercise (Core)
